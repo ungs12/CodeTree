@@ -6,7 +6,7 @@ public class Main {
         int n = sc.nextInt();
         if(n % 2 != 0) System.out.println(31);
         else if(n != 2 && n % 2 == 0){
-            if(n == 8) Systme.out.println(31);
+            if(n == 8) System.out.println(31);
             else System.out.println(30);
         }
         else System.out.println(28);
